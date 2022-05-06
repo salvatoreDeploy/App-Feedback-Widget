@@ -5,6 +5,10 @@ module.exports = {
       colors:{
         brand:{
           500: '#8257e6'
+        },
+        zinc:{
+          100: '#f4f4f5',
+          500: '#09090a'
         }
       }
     },

@@ -1,5 +1,5 @@
 div.container{
-    @apply absolute bottom-4 right-4
+    @apply flex flex-col items-end md:bottom-9 md:right-9
 }
 
 button.button{
@@ -17,4 +17,3 @@ button.group:hover > .group-hover{
 span.spanFeedBack{
     @apply max-w-0 overflow-hidden
 }
-
